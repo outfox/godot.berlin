@@ -14,6 +14,9 @@ enableCodeCopy = true
 
 replyByEmail = false
 
+logo = "logo-1.png"
+secondaryLogo = "logo-2.png"
+
 # mainSections = ["section1", "section2"]
 # robots = ""
 
@@ -21,7 +24,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+defaultBackgroundImage = "bg_default.png" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
@@ -43,7 +46,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/homepage.png" # used in: hero, and card
+  homepageImage = "img/bg_homepage.png" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
