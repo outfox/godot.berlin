@@ -4,7 +4,7 @@ description: "We are a group of people passionate about the cross-platform, free
 icon: "godot"
 ---
 
-We are a group of people passionate about the cross-platform, free and open-source Godot {{<icon "godot_color">}} game engine.
+We are a group of people passionate about the cross-platform, free and open-source Godot {{<icon "godot">}} game engine.
 
 Regardless if you are an artist, designer, programmer, beginner, hobbyist, professional or anything in between: join us for sharing knowledge, creating art together, coding together, joining game jams together and having fun! 🚀
 
