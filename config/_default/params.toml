@@ -36,27 +36,27 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [footer]
   showMenu = true
-  showCopyright = true
-  showThemeAttribution = true
+  showCopyright = false
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "img/homepage.png" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
   showMoreLinkDest = "/posts/"
   cardView = false
   cardViewScreenWidth = false
-  layoutBackgroundBlur = false # only used when layout equals background
+  layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = true
   showViews = false
   showLikes = false
-  showDateOnlyInArticle = false
+  showDateOnlyInArticle = true
   showDateUpdated = false
   showAuthor = true
   # showAuthorBottom = false
