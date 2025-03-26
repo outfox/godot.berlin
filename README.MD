@@ -12,7 +12,7 @@ This website is built with the [Hugo](https:/gohugo.io) static site generator, a
 
 Pushing to `main` on GitHub will automatically deploy the site. Feel free to open a pull request if you want to contribute and not bear 🐻 responsibility for this entire repo. 
 
-Primary technical contacts are [tiger](https://github/thygrrr) and [Matteo](https://github.com/mtttz).
+Primary technical contacts are [tiger tiger tiger](https://github.com/thygrrr) and [Matteo](https://github.com/mtttz).
 
 ## Documentation
 The documentation how to use this CMS is on the blowfish website: https://blowfish.page
