@@ -9,7 +9,7 @@ colorScheme = "ocean"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
-enableSearch = true
+enableSearch = false
 enableCodeCopy = true
 
 replyByEmail = false
