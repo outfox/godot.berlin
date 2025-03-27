@@ -51,7 +51,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showRecentItems = 5
   showMoreLink = true
   showMoreLinkDest = "/meetups/"
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
