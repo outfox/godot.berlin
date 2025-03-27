@@ -1,8 +1,6 @@
 ---
 title: "Godot Engine Stammtisch @ Berlin Creators / IN Berlin"
 
-layout: card
-
 meetups: ["stammtisch"]
 categories: ["meetup", "event"]
 tags: ["meetup", "stammtisch", "berlin"]

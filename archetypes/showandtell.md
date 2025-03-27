@@ -1,7 +1,7 @@
 ---
 title: "Show & Tell {{ .Name }}"
 
-layout: card
+layout: hero
 
 meetups: ["showandtell"]
 categories: ["meetup", "event"]

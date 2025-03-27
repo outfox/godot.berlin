@@ -28,7 +28,7 @@ disableTextInHeader = false
 defaultFeaturedImage = "img/featured_default.png" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
-smartTOC = true
+# smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
 giteaDefaultServer = "https://git.fsfe.org"

@@ -1,7 +1,7 @@
 ---
 title: "Godot Engine Mini Meetup @ IN Berlin"
 
-layout: card
+layout: hero
 
 meetups: ["mini"]
 categories: ["meetup", "event"]
