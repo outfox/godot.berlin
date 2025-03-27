@@ -163,7 +163,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # bing = ""
   # pinterest = ""
   # yandex = ""
-  fediverse = "GodotUserGroupBerlin@mastodon.gamedev.place"
+  fediverse = "@GodotUserGroupBerlin@mastodon.gamedev.place"
 
 [rssnext]
   # feedId = ""
