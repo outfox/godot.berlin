@@ -1,5 +1,5 @@
 ---
-title: "godot.berlin, the Godot User Group Berlin"
+title: "Godot User Group Berlin"
 description: "We are a group of people passionate about the cross-platform, free and open-source Godot game engine."
 ---
 # Godot User Group Berlin
