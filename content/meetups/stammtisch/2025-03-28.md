@@ -38,7 +38,7 @@ This is not a structured meeting, but rather a friendly get-together. A typical 
 {{< timeline >}}
 
 {{< timelineItem icon="godot" header="Hello Godot!" badge="19:00" >}}
-Say hello, find a chair, and get comfortable! 
+Come in, find a chair, and get comfortable! 
 You can get a drink and a snack from the donation-funded fridge (usually around EUR 1,-)
 Also, if you are new or would like some guidance, let us know and we help you get settled in!
 {{< /timelineItem >}}
