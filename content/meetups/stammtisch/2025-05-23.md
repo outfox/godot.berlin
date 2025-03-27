@@ -44,7 +44,7 @@ Also, if you are new or would like some guidance, let us know and we help you ge
 {{< /timelineItem >}}
 
 {{< timelineItem icon="email" header="Who is who?" badge="19:20" >}}
-A quick round of intros - find out what the others are about and say as much or as little as you like about yourself. What are your interests? What do you do with Godot?. 
+A quick round of intros - find out what the others are about and say as much or as little as you like about yourself. What are your interests? What do you do with Godot? 
 {{< /timelineItem >}}
 
 {{< timelineItem icon="lightbulb" header="Show & Tell!" badge="~5-10 minutes per" subheader="Got something to show?" >}}
