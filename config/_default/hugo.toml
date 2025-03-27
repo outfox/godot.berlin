@@ -24,9 +24,9 @@ enableEmoji = true
 [imaging]
   anchor = 'Center'
 
-[permalinks]
-  [permalinks.page]
-    meetups = '/:slug/:year/:month/'
+#[permalinks]
+#  [permalinks.page]
+#    meetups = '/:slug/:year/:month/'
   
 [taxonomies]
   tag = "tags"
