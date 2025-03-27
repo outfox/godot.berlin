@@ -9,4 +9,6 @@ Regardless if you are an artist, designer, programmer, beginner, hobbyist, profe
 
 You can also join us on our [Discord server](https://discord.gg/dqg7TxMRH9). ☎️
 
-You can follow our [Mastodon account](https://mastodon.gamedev.place/@GodotUserGroupBerlin) for Updates. 📣
+You can follow our {{< icon "mastodon" >}} <a rel="me" href="https://mastodon.gamedev.place/@GodotUserGroupBerlin">Mastodon Account</a>
+ for Updates. 📣
+
