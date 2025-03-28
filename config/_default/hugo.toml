@@ -24,6 +24,9 @@ enableEmoji = true
 [imaging]
   anchor = 'Center'
 
+[security]
+  enableInlineShortcodes = true
+  
 [taxonomies]
   tag = "tags"
   category = "categories"
